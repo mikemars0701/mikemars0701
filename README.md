@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikemars0701
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning HTML, CSS, BOOTSTRAP, MYSQL, JAVA, JSCRIPT, C#
+- 🌱 I’m currently learning HTML, CSS, BOOTSTRAP, MYSQL, JAVA SE, JAVA EE, JSCRIPT, C#, REACT, SPRING.JS
 - 💞️ I’m looking to collaborate in new projects and work on IT
 - 📫 How to reach me https://www.linkedin.com/in/maycon-martins-b1654023a/
 
